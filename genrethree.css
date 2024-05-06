@@ -1,0 +1,25 @@
+*{
+    color: black;
+    font-size: 18px;
+}
+body{
+    background-color: white;
+    display: flex;
+
+}
+body div{
+    padding: 0 40px;
+}
+body div a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.genretwo a{
+    text-align: center;
+}
+div a:hover{
+    color: darkorange;
+}
+
+
+

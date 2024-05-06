@@ -1,0 +1,28 @@
+*{
+    color: black;
+    font-size: 18px;
+}
+body{
+    background-color: lightgray;
+    display: flex;
+
+}
+body div{
+    padding: 0 26px;
+}
+body div a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.genretwo a{
+    text-align: center;
+}
+.genrethree a{
+    margin-right: -20px;
+}
+div a:hover{
+    color: darkorange;
+}
+
+
+

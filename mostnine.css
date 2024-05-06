@@ -1,0 +1,23 @@
+body{
+    background-color: #0047ab;
+    display: flex;
+    
+}
+.one{
+    
+    display: flex;
+    
+}
+.one a{
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.one a:hover{
+    color: gold;
+    padding: 0 5px;
+
+}
+.one .cbarrow{
+    margin-top: -6px
+}

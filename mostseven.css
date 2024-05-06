@@ -1,0 +1,23 @@
+body{
+    background-color: #22e4ac;
+    display: flex;
+    
+}
+.one{
+    
+    display: flex;
+    
+}
+.one a{
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.one a:hover{
+    color: black;
+    padding: 0 5px;
+
+}
+.one .bgarrow{
+    margin-top: -6px
+}

@@ -1,0 +1,33 @@
+body{
+    background-color: orange;
+}
+.home{
+    background-color: orange;
+    background-size: cover;
+    
+    
+
+}
+.home ul{
+    display: flex;
+    list-style: none;  
+    
+
+}
+.home ul li{
+    
+    margin-bottom: 3px;
+    padding: 0 12px;
+    
+  
+}
+.home ul li a{
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+    
+}
+.home ul li a:hover{
+    color: gold;
+}

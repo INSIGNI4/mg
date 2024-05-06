@@ -1,0 +1,22 @@
+*{
+    color: black;
+    font-size: 18px;
+}
+body{
+    background-color: white;
+    display: flex;
+
+}
+body div{
+    padding: 0 39px;
+}
+body div a{
+    text-decoration: none;
+    margin-right: 10px;
+}
+div a:hover{
+    color: darkorange;
+}
+
+
+

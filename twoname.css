@@ -1,0 +1,31 @@
+.twoname{
+    margin-left: 5px;
+    margin-top: -100px;
+}
+body{
+    display: flex;
+    margin-left: -35px;
+    margin-top: 4px;
+   
+}
+body div{
+    
+    font-size: 11px;
+    list-style: none;
+    
+}
+
+
+body .pop ul{
+    list-style: none;
+}
+
+body .name1{
+    display: flex;
+}
+body .name1 a{
+    color: gold;
+}
+body iframe{
+    margin-left: 0px;
+}

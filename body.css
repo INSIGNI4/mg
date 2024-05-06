@@ -1,0 +1,178 @@
+body{
+    background-color: wheat;
+}
+.logo a img{
+    height: 30%;
+    width: 30%;
+}
+.login iframe{
+    align-items: top;
+    float: inline-start;
+    
+    margin-left: 340px;
+}
+.login{
+    margin-top: -141px;
+}
+
+.popular iframe{
+    margin-left: -1px;
+    margin-top: 10px;
+
+}
+.Slide{
+    display: flex;
+}
+
+
+.Slide iframe{
+    margin-left: -1px;
+    margin-top: -10px;
+}
+.latest{
+    margin-top: 4px;
+}
+.latestline{
+    display: flex;
+}
+.latestline iframe{
+    margin-top: -44px;
+    margin-left: 250px 
+}
+.most{
+    margin-top: -44px;
+    margin-left: 660px;
+}
+.mostline{
+    margin-left: 960px;
+    margin-top: -53px;
+}
+.mostone{
+
+    margin-top: 31px;
+    margin-left: 660px;
+
+}
+.mosttwo{
+
+    margin-top: -4px;
+    margin-left: 660px;
+
+}
+.mostthree{
+
+    margin-top: -4px;
+    margin-left: 660px;
+
+}
+.mostfour{
+
+    margin-top: -4px;
+    margin-left: 660px;
+
+}
+.mostfive{
+
+    margin-top: -4px;
+    margin-left: 660px;
+
+}
+.mostsix{
+
+    margin-top: -4px;
+    margin-left: 660px;
+
+}
+.mostseven{
+
+    margin-top: -4px;
+    margin-left: 660px;
+
+}
+.mosteight{
+
+    margin-top: -4px;
+    margin-left: 660px;
+
+}
+.mostnine{
+
+    margin-top: -5px;
+    margin-left: 660px;
+
+}
+.mostten{
+
+    margin-top: -5px;
+    margin-left: 660px;
+
+}
+.genre{
+    margin-top: 5px;
+    margin-left: 660px;
+}
+.genreline{
+    margin-left: 960px;
+    margin-top: -53px;
+}
+table{
+    display: flex;
+    margin-left: 660px;
+    margin-top: 52px;
+    padding: 20px 20px;
+    
+}
+table .first{
+    margin-left: 100px;
+
+    
+    
+}
+.genrelist{
+    margin-top: 32px;
+    margin-left: 660px;
+}
+.genretwo{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.genrethree{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.genrefour{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.genrefive{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.genresix{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.genreseven{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.genreeight{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.genrenine{
+    margin-top: -4px;
+    margin-left: 660px;
+}
+.recent{
+    margin-top: -710px;
+
+}
+
+h1{
+    font-size: 16.5px;
+    background-color: orange;
+    padding: 24px 20px;
+}
+
+

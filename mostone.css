@@ -1,0 +1,22 @@
+body{
+    background-color: red;
+    display: flex;
+    
+}
+.one{
+    
+    display: flex;
+    
+}
+.one a{
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.one a:hover{
+    color: gold;
+    padding: 0 5px;
+}
+.one .redarrow{
+    margin-top: -6px
+}

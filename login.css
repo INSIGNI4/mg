@@ -1,0 +1,41 @@
+body{
+    background-color: #fbf07b;
+}
+a{
+    margin-left: 2px;
+    background-color: #fbf07b;
+}
+button{
+    height: 40px;
+    width: 140px;
+    text-indent: -35px;
+    
+    border-color: gold;
+    background-color: #202020;
+    color: white;
+    margin-top: 13px;
+
+}
+button:hover{
+    
+    color: gold;
+    background-color: gray;
+    border-color: black;
+}
+
+body .login{
+    padding: 20 20;
+    background-color: gold;
+    height: 40px;
+    width: 700;
+}
+input{
+    height: 40px;
+    width: 390px;
+    background-color: #fbf07b;
+    text-align: end;
+    font-size: 18px;
+    
+    
+}
+

@@ -1,0 +1,23 @@
+body{
+    background-color: #ffcc00;
+    display: flex;
+    
+}
+.one{
+    
+    display: flex;
+    
+}
+.one a{
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.one a:hover{
+    color: black;
+    padding: 0 5px;
+
+}
+.one .yarrow{
+    margin-top: -6px
+}
